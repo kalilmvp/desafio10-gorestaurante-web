@@ -1,28 +1,27 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Ao molho do Kalil",
       "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "available": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Veggie",
+      "image": "https://media.gettyimages.com/photos/authentic-indian-food-picture-id639389404?s=612x612",
+      "name": "Veggie new one ",
+      "price": "100",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "available": false,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://previews.123rf.com/images/galitskaya/galitskaya1807/galitskaya180700349/105445642-assorted-indian-food-on-dark-wooden-background-dishes-and-appetizers-of-indian-cuisine-curry-butter-.jpg",
+      "name": "Nova comida",
+      "price": "200.10",
+      "description": "asdasdasd",
+      "id": 3
     }
   ]
 }

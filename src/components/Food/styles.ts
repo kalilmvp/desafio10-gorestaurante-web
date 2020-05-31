@@ -17,14 +17,16 @@ export const Container = styled.div<IFoodPlateProps>`
     text-align: center;
 
     ${props =>
-      !props.available &&
-      css`
+    !props.available &&
+    css`
         opacity: 0.3;
       `};
 
     img {
       pointer-events: none;
       user-select: none;
+      width: 352px;
+      height: 192px;
     }
   }
 
